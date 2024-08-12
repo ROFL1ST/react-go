@@ -3,7 +3,7 @@
 1. Clone this repository
 
 ```markdown
-https://github.com/ROFL1ST/PlanetPulse-be.git
+https://github.com/ROFL1ST/react-go.git
 ```
 2. run "go run main.go"
 3. Create .env file, then copy this code below
